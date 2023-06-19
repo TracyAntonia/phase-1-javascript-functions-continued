@@ -19,3 +19,4 @@ function wrapAdjective(wrapper = '*'){
 
 wrapAdjective('||');
 console.log();
+
